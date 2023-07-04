@@ -1,6 +1,6 @@
 # 😎 Mugambi Javan:
-# 💫 About Me:
-Dream It 😎.  Chase It 💻.  Code It 👨‍💻.<br>Code Is Art 👨‍💻        
+
+Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>Code Is Art 👨‍💻        
 
 
 # 💻 Tech Stack:
