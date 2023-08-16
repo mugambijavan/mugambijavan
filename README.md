@@ -1,5 +1,4 @@
 # Mugambi Javan:
-# CahMyrrh
 # BhakitahTech
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>Code Is Art 👨‍💻        
