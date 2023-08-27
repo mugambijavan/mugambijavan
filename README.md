@@ -1,7 +1,7 @@
 # Mugambi Javan:
 # BhakitahTech
 
-Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>Code Is Art 👨‍💻        
+Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻  <br>     
 
 
 <div align="left">
@@ -94,7 +94,7 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>Code Is Art 👨‍💻
 
 ###
 
-<p align="left">Hello World!!</p>
+
 
 ###
 
