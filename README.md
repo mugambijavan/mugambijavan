@@ -98,8 +98,9 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>Code Is Art 👨‍💻
 
 ###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote">
+</p>
 
 
 
