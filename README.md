@@ -1,5 +1,5 @@
 # Mugambi Javan <br>
-# [<span style="text-decoration: none;">BhakitahTech</span>](https://bhakitah-tech.vercel.app/){:target="_blank"}
+# <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
 
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻  <br>     
