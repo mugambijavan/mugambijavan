@@ -2,7 +2,17 @@
 # <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
 
 
-Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻  <br>     
+Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻  <br> 
+<br clear="both">
+
+<p align="left">I am an intermediate software developer with a proven track record of crafting visually stunning and responsive user interfaces. My mastery of a diverse array of technologies, from front-end languages such as HTML, CSS, and JavaScript to mobile app development with Flutter and Dart, positions me as a dynamic force in the software development industry. With a robust foundation in both front-end and back-end technologies, including React.js, Node.js, MongoDB, Ruby on Rails, and SQL, I ensure seamless functionality across the entire development stack. Beyond coding, my commitment to ethical hacking reflects my dedication to cybersecurity, contributing to a safer digital world. Holding a Software Engineering degree from Moringa School, React Developer certification from Andela, and an Ethical Hacker credential from Networking CISCO Academy, I am driven by a passion for delivering high-quality software solutions that address complex challenges and elevate user experiences.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+</div>
+
 
 
 <div align="left">
