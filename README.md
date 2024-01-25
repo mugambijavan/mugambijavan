@@ -48,7 +48,6 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </p>
 
 
