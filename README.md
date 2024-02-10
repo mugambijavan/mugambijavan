@@ -8,6 +8,9 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻
 <br clear="both">
 
 ###
+Dream <br>
+Plan <br>
+Do <br> 
 </div>
 
 ###
