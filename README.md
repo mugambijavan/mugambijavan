@@ -4,7 +4,7 @@
 # <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
 
 
-Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br> Code Is Art 👨‍💻  <br> 
+Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
 <br clear="both">
 
 ###
