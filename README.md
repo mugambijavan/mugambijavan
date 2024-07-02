@@ -2,6 +2,7 @@
 <div align="center">
   # Mugambi Javan <br>
 # <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
+# <p align="center">I'm not just a Dev</p>
 
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
@@ -34,15 +35,6 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugambijavan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/mugambijavan/mugambijavan/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
@@ -50,6 +42,7 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote">
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugambijavan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
