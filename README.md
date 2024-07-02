@@ -3,7 +3,7 @@
  Mugambi Javan <br>
 <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
  <br>
-<p>I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.</p>
+<p>With a blend of programming skills and creative focus, I aim to develop stunning and efficient applications. My ambition is to create scalable software solutions that offer an engaging and flawless user experience.</p>
  <p align="left">I'm not just a Dev</p>
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
