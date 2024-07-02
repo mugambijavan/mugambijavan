@@ -1,8 +1,9 @@
-
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 <div align="center">
   # Mugambi Javan <br>
 # <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
 # <p align="center">I'm not just a Dev</p>
+#<p>I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.</p>
 
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
