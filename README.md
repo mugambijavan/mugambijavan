@@ -43,7 +43,4 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mugambijavan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
