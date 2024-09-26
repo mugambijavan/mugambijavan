@@ -43,4 +43,6 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote">
 </p>
 
+<div align="center" data-iframe-width="150" data-iframe-height="270" data-share-badge-id="84c3363d-8925-4fc6-959b-3d041564f118" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
