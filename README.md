@@ -1,4 +1,4 @@
-<div align="center"> ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </div>
+<div align="center"> Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </div>
 <div align="center">
  Mugambi Javan <br>
 <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
