@@ -1,10 +1,10 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-<div align="left">
+<div align="center"> ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </div>
+<div align="center">
  Mugambi Javan <br>
 <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
  <br>
 <p>With a blend of programming skills and creative focus, I aim to develop stunning and efficient applications. My ambition is to create scalable software solutions that offer an engaging and flawless user experience.</p>
- <p align="left">I'm not just a Dev</p>
+ <p align="center">I'm not just a Dev</p>
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
 <br clear="both">
