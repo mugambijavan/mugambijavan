@@ -1,3 +1,4 @@
+<div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></div>
 <div align="center"> Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </div>
 <div align="center">
  Mugambi Javan <br>
