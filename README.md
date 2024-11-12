@@ -4,7 +4,9 @@
  Mugambi Javan <br>
 <a href="https://bhakitah-tech.vercel.app/" target="_blank">BhakitahTech</a>
  <br>
-<p>With a blend of programming skills and creative focus, I aim to develop stunning and efficient applications. My ambition is to create scalable software solutions that offer an engaging and flawless user experience.</p>
+ <p>
+  I'm a Full-Stack Software Engineer with a focus on building innovative, user-centered solutions. With expertise in front-end frameworks like React, TypeScript, and Next.js, and back-end experience in the MERN stack and Ruby on Rails, I create applications that are both functional and efficient.
+</p>
  <p align="center">I'm not just a Dev</p>
 
 Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
