@@ -52,11 +52,6 @@ Dream It 💫.  Chase It 💻.  Code It 👨‍💻.<br>
 <img src="https://raw.githubusercontent.com/mugambijavan/mugambijavan/output/snake.svg" alt="Snake animation" />
 
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mugambijavan/count.svg?"  />
-</div>
 
 ###
 
